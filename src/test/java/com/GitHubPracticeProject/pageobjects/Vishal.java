@@ -21,7 +21,6 @@ public class Vishal {
 			}
 
 		}
-
 		else {
 			System.out.println("Not prime number");
 		}
