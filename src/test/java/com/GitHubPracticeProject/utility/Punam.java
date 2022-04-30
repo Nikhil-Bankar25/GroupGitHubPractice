@@ -9,5 +9,4 @@ public class Punam {
 	{
 		System.out.println("add method");
 	}
-
 }
