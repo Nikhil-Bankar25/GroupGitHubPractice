@@ -3,7 +3,7 @@ package com.GitHubPracticeProject.pageobjects;
 public class Vishal {
 
 	public static void main(String[] args) {
-		int num = 59;
+		int num = 101;
 		int count = 0;
 
 		if (num > 1) {
