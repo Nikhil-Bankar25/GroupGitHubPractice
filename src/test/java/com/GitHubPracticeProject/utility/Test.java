@@ -6,7 +6,7 @@ public class Test {
 		 
 		System.out.println(" I can write Test class");
 		System.out.println(" Hi");
-		
+		System.out.println(" Hello");
 	}
 
 }
