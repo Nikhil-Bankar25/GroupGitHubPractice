@@ -9,5 +9,6 @@ public class Vicky {
 	}
 	public void test() {
 		System.out.println("test method added");
+		System.out.println("hello");
 	}
 }
